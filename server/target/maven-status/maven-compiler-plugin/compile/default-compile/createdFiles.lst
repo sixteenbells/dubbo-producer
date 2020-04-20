@@ -1,0 +1,4 @@
+com/zhc/dubbo/producer/server/BootMoreApplication.class
+com/zhc/dubbo/producer/server/service/Main.class
+com/zhc/dubbo/producer/server/controller/BaseController.class
+com/zhc/dubbo/producer/server/service/dubbo/DubboItemService.class

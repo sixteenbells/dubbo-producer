@@ -1,0 +1,6 @@
+com/zhc/dubbo/producer/api/enums/StatusCode.class
+com/zhc/dubbo/producer/api/Main.class
+com/zhc/dubbo/producer/api/response/BaseResponse.class
+com/zhc/dubbo/producer/api/request/PushOrderDto.class
+com/zhc/dubbo/producer/api/service/IDubboItemService.class
+com/zhc/dubbo/producer/api/service/IDubboRecordService.class

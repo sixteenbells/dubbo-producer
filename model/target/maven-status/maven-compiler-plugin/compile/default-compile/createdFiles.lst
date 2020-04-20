@@ -1,0 +1,5 @@
+com/zhc/dubbo/producer/model/mapper/ItemInfoMapper.class
+com/zhc/dubbo/producer/model/entity/OrderRecord.class
+com/zhc/dubbo/producer/model/entity/ItemInfo.class
+com/zhc/dubbo/producer/model/mapper/OrderRecordMapper.class
+com/zhc/dubbo/producer/model/Main.class
